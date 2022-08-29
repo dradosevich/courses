@@ -1,2 +1,2 @@
 # courses
-A repository for course content for my classes taught at the UNiversity of Wyoming 
+A repository for course content for my classes taught at the University of Wyoming 
