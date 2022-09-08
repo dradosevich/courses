@@ -17,15 +17,16 @@ ol {
     border: 5px solid darksalmon;
     border-radius: 10px;
 }
-/*this changes all list elements
+/*this changes all list elements*/
+/*
 li {
     color:#492f24;
-}
-*/
+}*/ 
+
 /*We can do it to change the li within an ordered list*/
-/*ol li{
+ol li{
     color:#492f24;
-}*/
+}
 /*we can do it to where only the children of the content div ones*/
 /*
 .content li{

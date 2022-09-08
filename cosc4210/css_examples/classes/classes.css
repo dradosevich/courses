@@ -15,6 +15,6 @@ p.first {
 }
 .second{
     color: gray;
-    border: 1px #492f24;
+    border: 1px solid #492f24;
     padding: 10px;
 }
