@@ -11,9 +11,19 @@ nav.upper{
 }
 main {
     background-color: #ffc425;
+    
+}
+body{
+    width: 75%;
+    margin:auto;
+    border: solid black;
+}
+html{
+    background-color: #ffc425;
 }
 div.divhead {
     display: inline-block;
+    margin:10px;
 }
 div.navdiv{
     display: inline-block;
@@ -23,16 +33,18 @@ footer {
     background-image: url("20210916_124751.jpg") ;
     background-position: center center;
     color: white;
+    font-size: larger;
 
 }
 div.contact{
     display: inline-block;
-    background-color: #ffc425;
+   /* background-color: #ffc425;*/
 }
 div.sitemap{
+    margin:auto;
     display: inline-block;
     float: right;
-    background-color: #ffc425;
+    /*background-color: #ffc425;*/
 }
 div.main_left{
     display: inline-block;
