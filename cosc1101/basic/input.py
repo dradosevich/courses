@@ -2,4 +2,4 @@
 #COSC1101
 #Input 
 
-print(input("Hello there: "))
+print("Helloe",input("What is your name? "))

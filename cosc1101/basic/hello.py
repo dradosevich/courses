@@ -2,4 +2,4 @@
 #COSC1101 
 #Hello World
 
-print("hello world")
+print("hello\" world","and class")
