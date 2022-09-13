@@ -9,7 +9,7 @@ from cryptography.hazmat.primitives.asymmetric import rsa
 from cryptography.hazmat.primitives import serialization
 
 #generate our private key
-private_key = rsa.generate_private_key(public_exponent=75537,key_size=2048,backend=default_backend())
+private_key = rsa.generate_private_key(public_exponent=65537,key_size=2048,backend=default_backend())
 public_key = private_key.public_key()
 
 #now we can store the private  key
