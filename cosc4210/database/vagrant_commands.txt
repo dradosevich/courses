@@ -1,0 +1,9 @@
+sudo apt update
+sudo apt upgrade
+sudo apt-get -y install nodejs npm
+sudo ln -sf /usr/bin/nodejs /usr/bin/node
+sudo apt-get install -y redis-server --no-install-recommends
+sudo apt-get install -y mongodb --no-install-recommends
+sudo apt-get install -y ruby2.3-dev --no-install-recommends
+sudo apt-get install -y ruby2.3 --no-install-recommends
+sudo gem install cf
