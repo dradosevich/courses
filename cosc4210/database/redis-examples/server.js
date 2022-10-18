@@ -38,7 +38,7 @@ async function addToMessages(keys)
         console.log("Messages currently,",messages)
     }
 
-    /*await keys.forEach( async key => 
+    /*keys.forEach( async key => 
     {
         value = await db_client.get(key);
         //addToMessages(element, value);  
