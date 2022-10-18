@@ -16,15 +16,15 @@ var main = function()
                 $card.text(card.rank+" of "+card.suit);
                 $list.append($card);*/ 
                 var $p_body = $("<p>")
-                var $list = $("<ul>");
+                //var $list = $("<ul>");
                 for (const[key,value] of Object.entries(card))
                 {
                     if(key!=""&&value!="")
                     {
-                        var $todo = $("<li>");
-                        $todo.text(key+":"+value);
-                        $list.append($todo);
-                        $p_body.append($list)
+                        //var $todo = $("<li>");
+                        $p_body.text(key+":"+value);
+                        //$list.append($todo);
+                        //$p_body.append($list)
                         $("body").append($p_body)
                         
                     }                    
