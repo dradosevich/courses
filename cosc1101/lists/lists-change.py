@@ -14,6 +14,7 @@ print(names)
 
 #building a list
 towns = [] 
+print(towns)
 towns.append("Laramie")
 towns.append("Jackson Hole")
 towns.append("Cheyenne")

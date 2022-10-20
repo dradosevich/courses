@@ -1,0 +1,175 @@
+1 	Cheyenne 	65,051
+2 	Casper 	58,656
+3 	Gillette 	32,884
+4 	Laramie 	31,659
+5 	Rock Springs 	23,196
+6 	Sheridan 	19,095
+7 	Evanston 	11,814
+8 	Green River 	11,609
+9 	Jackson 	10,849
+10 	Riverton 	10,587
+11 	Cody 	10,174
+12 	Rawlins 	8,298
+13 	Lander 	7,550
+14 	Powell 	6,418
+15 	Ranchettes 	6,384
+16 	Douglas 	6,351
+17 	Torrington 	6,132
+18 	Worland 	4,787
+19 	South Greeley 	4,473
+20 	Buffalo 	4,469
+21 	Mills 	4,221
+22 	Fox Farm-College 	4,105
+23 	Wheatland 	3,597
+24 	Newcastle 	3,204
+25 	Warren AFB 	2,997
+26 	Bar Nunn 	2,978
+27 	Evansville 	2,749
+28 	North Rock Springs 	2,727
+29 	Thermopolis 	2,706
+30 	Kemmerer 	2,422
+31 	Glenrock 	2,407
+32 	Lovell 	2,271
+33 	Pinedale 	2,262
+34 	Afton 	2,213
+35 	Lyman 	2,175
+36 	Hoback 	2,103
+37 	South Park 	1,999
+38 	Star Valley Ranch 	1,967
+39 	Fort Washakie 	1,732
+40 	Saratoga 	1,727
+41 	Arapahoe 	1,701
+42 	Greybull 	1,680
+43 	Ethete 	1,644
+44 	Wright 	1,619
+45 	Lusk 	1,497
+46 	Wilson 	1,492
+47 	Rafter J Ranch 	1,412
+48 	Moose Wilson Road 	1,289
+49 	Mountain View town 	1,287
+50 	Alpine 	1,262
+51 	Basin 	1,231
+52 	Sleepy Hollow 	1,187
+53 	Pine Bluffs 	1,156
+54 	Guernsey 	1,138
+55 	Ranchester 	1,110
+56 	Sundance 	1,043
+57 	Hartrandt 	1,016
+58 	Clearview Acres 	994
+59 	Red Butte 	987
+60 TIE 	Moorcroft and Casper Mountain 	965
+61 	Powder Horn 	953
+62 	Dubois 	919
+63 	Upton 	913
+64 	Grover 	875
+65 TIE 	Osmond and Dayton 	828
+66 	Marbleton 	810
+67 	Story 	805
+68 	Cowley 	795
+69 	Purple Sage 	764
+70 	Teton Village 	738
+71 	Vista West 	724
+72 	Hanna 	683
+73 	James Town 	632
+74 	Auburn 	631
+75 	Byron 	568
+76 	Diamondville 	526
+77 	Bear River 	525
+78 	Bedford 	515
+79 	Pine Haven 	512
+80 	Cokeville 	503
+81 	Shoshoni 	491
+82 	Lucerne 	483
+83 	Encampment 	453
+84 	Hudson 	439
+85 	Ralston 	432
+86 	Rolling Hills 	422
+87 	Baggs 	406
+88 	La Barge 	401
+89 	Lingle 	400
+90 	Thayne 	391
+91 	Big Horn 	382
+92 	LaGrange 	376
+93 	Sinclair 	374
+94 	Big Piney 	373
+95 	Burns 	372
+96 	Parkman 	371
+97 	Smoot 	369
+98 	Boulder Flats 	342
+99 	Burlington 	334
+100 	Urie 	327
+101 	Hulett 	318
+102 	Meeteetse 	314
+103 	Nordic 	310
+104 	Alta 	294
+105 	Centennial 	292
+106 	Midwest 	283
+107 	Kaycee 	264
+108 	Reliance 	253
+109 	Ten Sleep 	251
+110 	Medicine Bow 	245
+111 	Glendo 	239
+112 TIE 	Pavillion and East Thermopolis 	226
+113 	Johnstown 	221
+114 	Rock River 	219
+115 	Farson 	211
+116 	Fort Laramie 	210
+117 	Freedom 	206
+118 	Wamsutter 	200
+119 TIE 	Y-O Ranch and Homa Hills 	196
+120 	Garland 	193
+121 	Kelly 	183
+122 	Superior 	182
+123 	Carpenter 	181
+124 	Chugwater 	178
+125 	Albin 	167
+126 	Taylor 	160
+127 	Alpine Northwest 	157
+128 	Deaver 	156
+129 	Edgerton 	153
+130 	Elk Mountain 	152
+131 	Frannie 	142
+132 	Lakeview North 	139
+133 	Woods Landing-Jelm 	134
+134 	Yoder 	133
+135 	Eden 	132
+136 	Crowheart 	128
+137 	Bessemer Bend 	122
+138 	Arrowhead Springs 	121
+139 	Clearmont 	119
+140 	Brookhurst 	114
+141 	Daniel 	106
+142 TIE 	Fort Bridger and Hyattville 	100
+143 	Cora 	98
+144 	Whiting 	96
+145 TIE 	Turnerville, Manville, and Granger 	94
+146 	Shell 	90
+147 	Manderson 	89
+148 	Orin 	87
+149 	Mammoth 	83
+150 	Fairview 	78
+151 	Dixon 	77
+152 	Kirby 	75
+153 	Esterbrook 	73
+154 	Meadow Acres 	70
+155 TIE 	Washam, Bairoil, and Hartville 	67
+156 TIE 	Hill View Heights and McKinnon 	65
+157 TIE 	Riverside and Opal 	63
+158 	Point of Rocks 	58
+159 TIE 	Bondurant and Slater 	49
+160 	Osage 	47
+161 TIE 	Albany and Alpine Northeast 	42
+162 	Chugcreek 	40
+163 	Robertson 	37
+164 	Fontenelle 	35
+165 	Alcova 	30
+166 	Little America 	29
+167 	Lance Creek 	27
+168 	Arvada 	26
+169 TIE 	Boulder, Mountain View, and Ryan Park 	25
+170 TIE 	Van Tassell and Jeffrey City 	23
+171 	Hawk Springs 	18
+172 	Lonetree 	10
+173 	Fox Park 	8
+174 	El Rancho 	5
+175 	Lost Springs 	4 
