@@ -7,3 +7,5 @@ except Exception as  e:
     print(e)
 else:
     print("code run successfully")
+
+print("hi")

@@ -1,11 +1,11 @@
 #Danny Radosevich
 #COSC1101
 
-def make_pizza(*toppings):
-    print(toppings)
+def make_pizza(size,*toppings):
+    print(size, toppings)
 
 make_pizza("pepperoni")
-make_pizza("pepperoni","extra cheese", "sausage")
+make_pizza("large","pepperoni","extra cheese", "sausage")
 
 def build_profile(first, last, **user_info):
 

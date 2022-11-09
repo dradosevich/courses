@@ -20,4 +20,7 @@ with open(filename) as pi_file:
         print(line.rstrip())
 
 
-    
+with open(filename) as pi_file:
+    print(type(pi_file))
+    for line in pi_file:
+        print(line.rstrip())
