@@ -38,7 +38,7 @@ async function addToMessages(keys)
         console.log("Messages currently,",messages)
     }
 
-    /*keys.forEach( async key => 
+    /*mongkeys.forEach( async key => 
     {
         value = await db_client.get(key);
         //addToMessages(element, value);  
